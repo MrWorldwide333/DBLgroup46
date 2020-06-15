@@ -1,0 +1,15 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+body {
+    color: black;
+    background-color: #b4d7c0;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: radial-gradient(farthest-corner at 0% 150%, rgb(17, 17, 17), rgb(51,51,51))   ;
+  }
